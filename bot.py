@@ -8,7 +8,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 
 load_dotenv()
 
-BOT_TOKEN = os.getenv("995118383:AAFMIbDY7VJvrbb2ShxQQyXxubXqUrGuiqM")
+BOT_TOKEN = os.getenv("7790500247:AAEjOD9uiWbKW1P61C8c7j-g_IL1MSq0S-g")
 VIDEO_DIR = os.getenv("VIDEO_DIR", "./videos")
 BASE_URL = os.getenv("BASE_URL", "http://localhost")
 
